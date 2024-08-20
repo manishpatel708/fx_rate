@@ -1,0 +1,6 @@
+/home/manish/manish/interview/rates/src/main/java/com/fx/rates/RatesApplication.java
+/home/manish/manish/interview/rates/src/main/java/com/fx/rates/controller/FxRateController.java
+/home/manish/manish/interview/rates/src/main/java/com/fx/rates/model/FxRate.java
+/home/manish/manish/interview/rates/src/main/java/com/fx/rates/repository/FxRateRepository.java
+/home/manish/manish/interview/rates/src/main/java/com/fx/rates/service/FxRateService.java
+/home/manish/manish/interview/rates/src/main/java/com/fx/rates/util/FxRateClient.java

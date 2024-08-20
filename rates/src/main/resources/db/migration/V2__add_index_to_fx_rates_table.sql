@@ -1,0 +1,1 @@
+CREATE INDEX fx_rate_index ON fx_rate (source_currency, target_currency, date);

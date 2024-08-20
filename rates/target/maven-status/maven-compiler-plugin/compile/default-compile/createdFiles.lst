@@ -1,0 +1,5 @@
+com/fx/rates/service/FxRateService.class
+com/fx/rates/controller/FxRateController.class
+com/fx/rates/model/FxRate.class
+com/fx/rates/repository/FxRateRepository.class
+com/fx/rates/RatesApplication.class
